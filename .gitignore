@@ -1,0 +1,8 @@
+# Ignore Python's cache files
+__pycache__/
+
+# Ignore downloaded data files
+*.csv
+
+# Ignore IDE folders (like the 'idea' folder you saw)
+.idea/
