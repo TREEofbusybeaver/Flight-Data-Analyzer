@@ -8,8 +8,8 @@ This project is a Python program that automatically downloads real-world flight 
 - **Dynamic Visualization:** Generates a clear and detailed plot of the flight's altitude and airspeed, with color-coded backgrounds for each phase.
 
 ## Example Output
-![Flight Profile Analysis](https://i.imgur.com/your-image-url.png)
-*(To get this URL, upload your plot image to a site like Imgur)*
+![Flight Profile Analysis](https://i.imgur.com/Uu3VbSr.png)
+
 
 ## How to Run
 1.  Clone this repository.
